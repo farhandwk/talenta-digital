@@ -1,0 +1,34 @@
+# Dependencies
+# Folder ini berisi semua library yang diinstal dan bisa dibuat ulang dengan `npm install`
+/node_modules
+
+# Build output
+# Folder ini adalah hasil dari `npm run build` dan selalu dibuat dari kode sumber
+/dist
+
+# Environment Variables
+# Jangan pernah membagikan kunci rahasia atau variabel lingkungan
+.env
+.env.*
+!.env.example
+
+# Logs
+# Abaikan file-file log yang mungkin dibuat secara otomatis
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vite-specific cache
+# Direktori cache yang digunakan oleh Vite untuk mempercepat proses
+.vite/
+
+# OS-specific files
+# File sistem operasi yang tidak relevan dengan kode
+.DS_Store
+Thumbs.db
+
+# IDE and editor directories
+# Folder konfigurasi dari editor kode seperti VS Code atau JetBrains
+.idea
