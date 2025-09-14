@@ -98,7 +98,7 @@ const LoginPage = () => {
                 </div>
                 <p className="mt-3 text-center">
                     Untuk panduan lengkap, silakan lihat{' '}
-                    <a href="https://drive.google.com/file/d/1pWzwV2NkpoQNHj5FMux4nKYlkviYsLn-/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="font-medium text-indigo-600 hover:text-indigo-500">
+                    <a href="https://docs.google.com/document/d/1XnErjJe8t31Z8e7lNXMAr9s19fOO6-3QPDbzyJvUKk8/edit?usp=sharing" target="_blank" rel="noopener noreferrer" className="font-medium text-indigo-600 hover:text-indigo-500">
                         Dokumentasi Pengguna
                     </a>.
                 </p>
